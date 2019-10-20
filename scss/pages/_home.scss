@@ -1,0 +1,28 @@
+.homepage {
+  background: url("../../img/large/home-background.png") no-repeat;
+  background-size: cover;
+  .hamburger {
+    outline: none;
+  }
+  .hamburger-inner,
+  .hamburger-inner::before,
+  .hamburger-inner::after {
+    background-color: #fff;
+    width: 28px;
+    border-radius: 0;
+  }
+  .homepage-secondary-header {
+    width: 748px;
+    margin: 7rem auto 4rem 0;
+    display: flex;
+  }
+  .homepage-secondary-header-right {
+    margin: 0 0 0 25px;
+  }
+}
+
+.homepage-container-center {
+  width: 748px;
+  margin: 0 auto;
+  position: relative;
+}

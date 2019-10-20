@@ -1,0 +1,23 @@
+.officers-letter {
+  background: url("../../img/large/home-background.png") no-repeat;
+  background-size: cover;
+}
+
+.secondary-container-center {
+    width: 1141px;
+    margin: 0 auto;
+    position: relative;
+  }
+
+  .secondary-page-content {
+    height: 1652px;
+    background:#fff;
+    border-radius: 16px;
+  }
+
+  .secondary-page-content-cover-img {
+      background: url('../../img/large/cover-img.jpg') no-repeat;
+      height: 300px;
+      border-top-left-radius: 16px;
+      border-top-right-radius: 15px;
+  }
