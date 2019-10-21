@@ -55,17 +55,21 @@
 }
 
 .menu-navigation-list {
-    padding: 0px 2rem 0 0;
    > li {
         display: flex;
         align-items: center;
         justify-content: space-between;
+        padding: 0 2rem 0 0;
+        &:hover {
+            .menu-navigation-list-right {
+                display: block;
+            }
+        }
        > a {
             font-family: 'Montserrat';
             font-style: normal;
             font-weight: bold;
             font-size: 24px;
-            line-height: 52px;
             letter-spacing: 0.02em;
             text-transform: uppercase;
             color: #fff;
@@ -75,27 +79,29 @@
             position: relative;
             display: flex;
             align-items: center;
+            padding: 0 0 1.7rem;
+            justify-content: space-between;        
            
             &:hover {
                 color: #28A5DE;
                 &::after {
                     border-style: solid;
-                    border-width: 0.15em 0.15em 0 0;
+                    border-width: 0.12em 0.12em 0 0;
                     content: '';
                     display: inline-block;
-                    height: 0.45em;
+                    height: 0.40em;
                     right: 0;
                     position: absolute;
+                    -webkit-transform: rotate(45deg);
                     transform: rotate(45deg);
                     vertical-align: top;
-                    width: 0.45em;
-                
-                
-                .chevron.right:before {
-                    left: 0;
-                    transform: rotate(45deg);
+                    width: 0.40em;
+                                    
+                    .chevron.right:before {
+                        left: 0;
+                        transform: rotate(45deg);
+                    }
                 }
-            }
             }           
         }
     }
@@ -103,13 +109,19 @@
         position: absolute;
         top: 0;
         right: 0;
-        padding: 0 11rem 0 0rem;
+        padding: 0px 11rem 0 0rem;
+        display: none;
+        width: 39%;
+        border: solid transparent;
         li {
             line-height: 1.4;
             font-family: 'Montserrat';
             font-weight: bold;
-            padding: 1rem 0;
+            padding: 0rem 0 2rem 0;
             color:#fff;
+            // &:hover .menu-navigation-list-right {
+            //     display: block;
+            // }
             &::before {
                 content: "";
                 width: 12px;
@@ -123,8 +135,15 @@
     }
 }
 
+.menu-navigation-list > li > a.active {
+    color: #28A5DE;
+}
+
 .menu-sub-navigation-list {
     list-style: decimal;
+    padding: 0 0rem 0 1.7rem;
+    white-space: nowrap;
+    list-style-position: inside;
     li {
         a {
             transition: .22s ease-in-out;

@@ -16,27 +16,59 @@
     <div class="container">
         <div class="menu-left">
             <ul class="menu-navigation-list">
-                <li><a href="#!" class="menu-navigation-list-item-link">Officers' Letter</a></li>
-                <li><a href="#!" class="menu-navigation-list-item-link">Diversification and Efficiency</a></li>
+                <li><a href="#!" class="menu-navigation-list-item-link">Officers' Letter</a>
+                <div class="menu-navigation-list-right">
+                        <ol class="menu-sub-navigation-list">
+                            <li><a href="#!">Proin eget tortor risus. Praesent sapien massa, convallis</a></li>
+                            <li><a href="#!">Vivamus suscipit tortor eget felis porttitor volutpat</a></li>
+                            <li><a href="#!">Praesent sapien massa, convallis a pellentesque</a></li>
+                            <li><a href="#!">Nulla quis lorem ut libero malesuada feugiat. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices</a></li>
+                            <li><a href="#!">Donec sollicitudin molestie malesuada</a></li>
+                            <li><a href="#!">Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus</a></li>
+                            <li><a href="#!">Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</a></li>
+                            <li><a href="#!">Outreach Program Wins Regional Recognition</a></li>
+                            <li><a href="#!">Hot Topics: Execs Share with Statewide Audience</a></li>                 
+                        </ol>
+                    </div>    
+                </li>
+                <li><a href="#!" class="menu-navigation-list-item-link">Diversification and Efficiency</a>
+                <div class="menu-navigation-list-right">
+                        <ol class="menu-sub-navigation-list">
+                            <li><a href="#!">Proin eget tortor risus. Praesent sapien massa, convallis</a></li>
+                            <li><a href="#!">Vivamus suscipit tortor eget felis porttitor volutpat</a></li>
+                            <li><a href="#!">Praesent sapien massa, convallis a pellentesque</a></li>
+                            <li><a href="#!">Nulla quis lorem ut libero malesuada feugiat. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices</a></li>
+                            <li><a href="#!">Donec sollicitudin molestie malesuada</a></li>
+                            <li><a href="#!">Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus</a></li>
+                            <li><a href="#!">Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</a></li>
+                            <li><a href="#!">Outreach Program Wins Regional Recognition</a></li>
+                            <li><a href="#!">Hot Topics: Execs Share with Statewide Audience</a></li>                 
+                        </ol>
+                    </div>    
+                </li>
                 <li><a href="#!" class="menu-navigation-list-item-link">Innovation And Business Services</a>
-                    <div class="menu-navigation-list-right hide">
-                    <ol class="menu-sub-navigation-list">
-                        <li><a href="#!">75 Years: Water Authority Marks Major Milestone</a></li>
-                        <li><a href="#!">Citizens Water Academy Tops 500 Graduates</a></li>
-                        <li><a href="#!">Inside Look: MWD Delegates Host Inspection Tours</a></li>
-                        <li><a href="#!">Water Authority Toasts Brewing Industry</a></li>
-                        <li><a href="#!">Growing Partnership: Water, Ag Leaders Promote Farm Economy</a></li>
-                        <li><a href="#!">Jon Foreman Rocks as First Social Influencer</a></li>
-                        <li><a href="#!">New Award Celebrates Water Innovation & Efficiency</a></li>
-                        <li><a href="#!">Water Authority and SDG&E Boost Water-Energy Savings</a></li>
-                        <li><a href="#!">Airport Ads Remind Travelers That San Diego is Brought to You by Water</a></li>
-                        <li><a href="#!">Outreach Program Wins Regional Recognition</a></li>
-                        <li><a href="#!">Hot Topics: Execs Share with Statewide Audience</a></li>                 
-                    </ol>
+                    <div class="menu-navigation-list-right">
+                        <ol class="menu-sub-navigation-list">
+                            <li><a href="#!">Proin eget tortor risus. Praesent sapien massa, convallis</a></li>
+                            <li><a href="#!">Vivamus suscipit tortor eget felis porttitor volutpat</a></li>
+                            <li><a href="#!">Praesent sapien massa, convallis a pellentesque</a></li>
+                            <li><a href="#!">Nulla quis lorem ut libero malesuada feugiat. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices</a></li>
+                            <li><a href="#!">Donec sollicitudin molestie malesuada</a></li>
+                            <li><a href="#!">Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus</a></li>
+                            <li><a href="#!">Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</a></li>
+                            <li><a href="#!">Outreach Program Wins Regional Recognition</a></li>
+                            <li><a href="#!">Hot Topics: Execs Share with Statewide Audience</a></li>                 
+                        </ol>
                     </div>    
                  </li>
-                <li class="active"><a href="#!" class="menu-navigation-list-item-link">Communication And Collaboration</a>
-                <div class="menu-navigation-list-right show">
+                <li><a href="#!" class="menu-navigation-list-item-link">Communication And Collaboration</a>
+                <div class="menu-navigation-list-right">
                   <ol class="menu-sub-navigation-list">
                     <li><a href="#!">75 Years: Water Authority Marks Major Milestone</a></li>
                     <li><a href="#!">Citizens Water Academy Tops 500 Graduates</a></li>
@@ -52,10 +84,74 @@
                     </ol>
                 </div>
             </li>
-                <li><a href="#!" class="menu-navigation-list-item-link">Legislation and Collaboration</a></li>
-                <li><a href="#!" class="menu-navigation-list-item-link">Legislation and Leadership</a></li>
-                <li><a href="#!" class="menu-navigation-list-item-link">Operation And Rehabilitation</a></li>
-                <li><a href="#!" class="menu-navigation-list-item-link">Resources</a></li>
+                <li><a href="#!" class="menu-navigation-list-item-link">Legislation and Collaboration</a>
+                <div class="menu-navigation-list-right">
+                        <ol class="menu-sub-navigation-list">
+                            <li><a href="#!">Proin eget tortor risus. Praesent sapien massa, convallis</a></li>
+                            <li><a href="#!">Vivamus suscipit tortor eget felis porttitor volutpat</a></li>
+                            <li><a href="#!">Praesent sapien massa, convallis a pellentesque</a></li>
+                            <li><a href="#!">Nulla quis lorem ut libero malesuada feugiat. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices</a></li>
+                            <li><a href="#!">Donec sollicitudin molestie malesuada</a></li>
+                            <li><a href="#!">Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus</a></li>
+                            <li><a href="#!">Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</a></li>
+                            <li><a href="#!">Outreach Program Wins Regional Recognition</a></li>
+                            <li><a href="#!">Hot Topics: Execs Share with Statewide Audience</a></li>                 
+                        </ol>
+                    </div>    
+                </li>
+                <li><a href="#!" class="menu-navigation-list-item-link">Legislation and Leadership</a>
+                <div class="menu-navigation-list-right">
+                        <ol class="menu-sub-navigation-list">
+                            <li><a href="#!">Proin eget tortor risus. Praesent sapien massa, convallis</a></li>
+                            <li><a href="#!">Vivamus suscipit tortor eget felis porttitor volutpat</a></li>
+                            <li><a href="#!">Praesent sapien massa, convallis a pellentesque</a></li>
+                            <li><a href="#!">Nulla quis lorem ut libero malesuada feugiat. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices</a></li>
+                            <li><a href="#!">Donec sollicitudin molestie malesuada</a></li>
+                            <li><a href="#!">Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus</a></li>
+                            <li><a href="#!">Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</a></li>
+                            <li><a href="#!">Outreach Program Wins Regional Recognition</a></li>
+                            <li><a href="#!">Hot Topics: Execs Share with Statewide Audience</a></li>                 
+                        </ol>
+                    </div>    
+                </li>
+                <li><a href="#!" class="menu-navigation-list-item-link">Operation And Rehabilitation</a>
+                <div class="menu-navigation-list-right">
+                        <ol class="menu-sub-navigation-list">
+                            <li><a href="#!">Proin eget tortor risus. Praesent sapien massa, convallis</a></li>
+                            <li><a href="#!">Vivamus suscipit tortor eget felis porttitor volutpat</a></li>
+                            <li><a href="#!">Praesent sapien massa, convallis a pellentesque</a></li>
+                            <li><a href="#!">Nulla quis lorem ut libero malesuada feugiat. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices</a></li>
+                            <li><a href="#!">Donec sollicitudin molestie malesuada</a></li>
+                            <li><a href="#!">Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus</a></li>
+                            <li><a href="#!">Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</a></li>
+                            <li><a href="#!">Outreach Program Wins Regional Recognition</a></li>
+                            <li><a href="#!">Hot Topics: Execs Share with Statewide Audience</a></li>                 
+                        </ol>
+                    </div>    
+                </li>
+                <li><a href="#!" class="menu-navigation-list-item-link">Resources</a>
+                <div class="menu-navigation-list-right">
+                        <ol class="menu-sub-navigation-list">
+                            <li><a href="#!">Proin eget tortor risus. Praesent sapien massa, convallis</a></li>
+                            <li><a href="#!">Vivamus suscipit tortor eget felis porttitor volutpat</a></li>
+                            <li><a href="#!">Praesent sapien massa, convallis a pellentesque</a></li>
+                            <li><a href="#!">Nulla quis lorem ut libero malesuada feugiat. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices</a></li>
+                            <li><a href="#!">Donec sollicitudin molestie malesuada</a></li>
+                            <li><a href="#!">Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus</a></li>
+                            <li><a href="#!">Curabitur aliquet quam id dui posuere blandit. Sed porttitor lectus nibh</a></li>
+                            <li><a href="#!">Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</a></li>
+                            <li><a href="#!">Outreach Program Wins Regional Recognition</a></li>
+                            <li><a href="#!">Hot Topics: Execs Share with Statewide Audience</a></li>                 
+                        </ol>
+                    </div>    
+                </li>
             </ul>
             <div class="menu-left-bottom">
                 <a href="/" class="menu-navigation-sdcwa-link">SDCWA.org</a>
