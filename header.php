@@ -172,9 +172,9 @@
         <div class="header-logo-left">
             <a href="/">
                 <?php if($pagename=='homepage') { ?>
-                <img src="/img/final-logos-white-horizontal.svg" />
+                <img src="./img/final-logos-white-horizontal.svg" />
                 <?php } else { ?>
-                    <img src="/img/logo-color.svg" />
+                    <img src="./img/logo-color.svg" />
                 <?php } ?>
                 </a>
 

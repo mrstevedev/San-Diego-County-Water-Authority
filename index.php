@@ -17,7 +17,7 @@
     </a>
     <div class="homepage-secondary-header">
         <div class="homepage-secondary-header-left">
-            <img src="/img/thumbs/Frame.svg" />
+            <img src="./img/thumbs/Frame.svg" />
         </div>
         <div class="homepage-secondary-header-right">
             <p class="secondary-header-txt-top">Celebrating 75 Years with Our Member Agencies:</p>
