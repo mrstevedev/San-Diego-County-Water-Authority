@@ -28,11 +28,6 @@ menuItem.forEach((item) => {
         // append a chevron to the DOM
         item.childNodes[0].insertBefore('<i class="fas fa-chevron-right"></i>');
 
-
-        let parentGuest = document.getElementById("one");
-        let childGuest = document.createElement("li");
-        childGuest.id = "two"; 
-        parentGuest.parentNode.appendChild(childGuest);
     });
     item.addEventListener('mouseleave', (e) => {        
         item.childNodes[0].classList.remove('active');
